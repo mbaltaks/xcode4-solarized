@@ -1,0 +1,3 @@
+#!/bin/sh
+cp $HOME/Library/Developer/Xcode/UserData/FontAndColorThemes/Solarized\ Dark.dvtcolortheme .
+cp $HOME/Library/Developer/Xcode/UserData/FontAndColorThemes/Solarized\ Light.dvtcolortheme .
